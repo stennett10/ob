@@ -12,6 +12,6 @@
   "badge": "https://raw.githubusercontent.com/stennett10/ob/master/badgeClass.json", //json file for the badge class
   "verify": {
     "type": "hosted", //"hosted" or "signed"
-    "url": "https://example.org/beths-robotics-badge.json"  // If "hosted", URL points to the assertion on the issuer's server. If "signed", link to the issuer's public key.
+    "url": "https://raw.githubusercontent.com/stennett10/ob/master/assertion.json"  // If "hosted", URL points to the assertion on the issuer's server. If "signed", link to the issuer's public key.
   }
 }
