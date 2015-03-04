@@ -1,10 +1,10 @@
 {
   "name": "Awesome Robotics Badge", //self explanitory
   "description": "For doing awesome things with robots that people think is pretty great.", //self explanitory
-  "image": "https://example.org/robotics-badge.png", // URL to the badge png again???
+  "image": "https://raw.githubusercontent.com/stennett10/ob/master/generic-badge-icon.png", // URL to the badge png again???
   "criteria": "https://example.org/robotics-badge.html", //webpage outlining what was required to earn the badge
   "tags": ["iss", "innovation","hub","testing","badge"], //array of text to descibe the badge
-  "issuer": "localhost/issuer.json", //issuer json file
+  "issuer": "https://raw.githubusercontent.com/stennett10/ob/master/issuer.json", //issuer json file
   "alignment": [
     { "name": "CCSS.ELA-Literacy.RST.11-12.3",
       "url": "http://www.corestandards.org/ELA-Literacy/RST/11-12/3",

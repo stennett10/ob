@@ -6,10 +6,10 @@
     "salt": "", //needed if hashed is true
     "identity": "stennett10@gmail.com" //email of recipient of badge; or hashed email
   },
-  "image": "localhost/ob/generic-badge-icon.png", //url to the image that the badge 
+  "image": "https://raw.githubusercontent.com/stennett10/ob/master/generic-badge-icon.png", //url to the image that the badge 
   "evidence": "www.google.com", //a link to proof of earning the badge 
   "issuedOn": 1359217910, //date/time in UNIX time
-  "badge": "localhost/ob/badgeClass.json", //json file for the badge class
+  "badge": "https://raw.githubusercontent.com/stennett10/ob/master/badgeClass.json", //json file for the badge class
   "verify": {
     "type": "hosted", //"hosted" or "signed"
     "url": "https://example.org/beths-robotics-badge.json"  // If "hosted", URL points to the assertion on the issuer's server. If "signed", link to the issuer's public key.
