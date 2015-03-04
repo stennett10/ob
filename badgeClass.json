@@ -1,0 +1,18 @@
+{
+  "name": "Awesome Robotics Badge", //self explanitory
+  "description": "For doing awesome things with robots that people think is pretty great.", //self explanitory
+  "image": "https://example.org/robotics-badge.png", // URL to the badge png again???
+  "criteria": "https://example.org/robotics-badge.html", //webpage outlining what was required to earn the badge
+  "tags": ["iss", "innovation","hub","testing","badge"], //array of text to descibe the badge
+  "issuer": "localhost/issuer.json", //issuer json file
+  "alignment": [
+    { "name": "CCSS.ELA-Literacy.RST.11-12.3",
+      "url": "http://www.corestandards.org/ELA-Literacy/RST/11-12/3",
+      "description": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks; analyze the specific results based on explanations in the text."
+    },
+    { "name": "CCSS.ELA-Literacy.RST.11-12.9",
+      "url": "http://www.corestandards.org/ELA-Literacy/RST/11-12/9",
+      "description": " Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible."
+    }
+  ]
+}
