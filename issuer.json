@@ -1,0 +1,7 @@
+{
+  "name": "An Example Badge Issuer",
+  "image": "https://raw.githubusercontent.com/stennett10/ob/master/generic-badge-icon.png",
+  "url": "https://example.org",
+  "email": "steved@example.org",
+  "revocationList": "https://example.org/revoked.json"
+}
